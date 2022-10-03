@@ -2,101 +2,6 @@
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
-.fin{
-    display: flex;
-    justify-content: center;
-}
-
-.kkk{
-    margin-right: 100px;
-    display: flex;
-    justify-content: center;
-    font-family: Plus Jakarta Sans;
-font-size: 44px;
-font-weight: 400;
-line-height: 58px;
-letter-spacing: 1.440000057220459px;
-text-align: left;
-
-}
-
-.textkkk{
-    height: 58px;
-    width: 29px;
-}
-
-.avot{
-    font-family: Plus Jakarta Sans;
-    font-size: 17px;
-    font-weight: 400;
-    line-height: 27px;
-    letter-spacing: 0em;
-    text-align: left;
-    height: 54px;
-    width: 197px;
-    left: 0px;
-    top: 71.421875px;
-    border-radius: nullpx;
-        
-}
-
-.poslednii{
-    margin-top: 220px;
-    margin-bottom: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-.tex1 {
-    height: 317px;
-    width: 470px;
-    left: 0px;
-    top: -6px;
-    border-radius: nullpx;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 63px;
-    line-height: 79px;
-    letter-spacing: 2.16px;
-    color: #080829;
-}
-
-.tex2 {
-    height: 87px;
-    width: 495px;
-    left: 0px;
-    top: 342px;
-    border-radius: nullpx;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 29px;
-    letter-spacing: 0.36px;
-    color: #080829;
-    margin-top: 10px;
-}
-
-.knopka-header {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 20px;
-    text-align: center;
-    letter-spacing: 0.4px;
-    color: #080829;
-    height: 61px;
-    width: 219px;
-    left: 0px;
-    top: 0px;
-    border-radius: 14px;
-    border: 1px solid rgba(8, 8, 41, 0.2);
-    border-style: solid;
-    font-size: 20px;
-}
-
-.knopka-header:hover {
-    border-color: #102088;
-}
 
 .knopka-1 {
     font-size: 20px;
@@ -635,6 +540,103 @@ main {
     color: #080829;
     margin-top: 30px;
 }
+
+.fin{
+    display: flex;
+    justify-content: center;
+}
+
+.kkk{
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    font-family: Plus Jakarta Sans;
+font-size: 44px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 1.440000057220459px;
+text-align: left;
+
+}
+
+.textkkk{
+    height: 58px;
+    width: 29px;
+}
+
+.avot{
+    font-family: Plus Jakarta Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 54px;
+    width: 197px;
+    left: 0px;
+    top: 71.421875px;
+    border-radius: nullpx;
+        
+}
+
+.poslednii{
+    margin-top: 220px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.tex1 {
+    height: 317px;
+    width: 470px;
+    left: 0px;
+    top: -6px;
+    border-radius: nullpx;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    line-height: 79px;
+    letter-spacing: 2.16px;
+    color: #080829;
+}
+
+.tex2 {
+    height: 87px;
+    width: 495px;
+    left: 0px;
+    top: 342px;
+    border-radius: nullpx;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.36px;
+    color: #080829;
+    margin-top: 10px;
+}
+
+.knopka-header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #080829;
+    height: 61px;
+    width: 219px;
+    left: 0px;
+    top: 0px;
+    border-radius: 14px;
+    border: 1px solid rgba(8, 8, 41, 0.2);
+    border-style: solid;
+    font-size: 20px;
+}
+
+.knopka-header:hover {
+    border-color: #102088;
+}
+
 
 .blok4Sl6 {
     height: 87px;
